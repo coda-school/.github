@@ -1,5 +1,5 @@
 # Coda
-🎓 **Coda** est une école d’informatique privée, engagée et professionnalisante, implantée à Orléans et Dijon, qui forme des étudiant·es de `Bac+3` à `Bac+5` (RNCP niveaux 6 et 7) dans des domaines clés tels que le développement logiciel, la cybersécurité, l’IA et le Green IT.
+🎓 **Coda** est une école d’informatique privée, engagée et professionnalisante, implantée à Orléans, Dijon et bientôt Avignon (2026), qui forme des étudiant·es de `Bac+3` à `Bac+5` (RNCP niveaux 6 et 7) dans des domaines clés tels que le développement logiciel, la cybersécurité, l’IA et le Green IT.
 
 ## 🚀 Notre mission
 Préparer des professionnel·les du numérique compétent·es, responsables et mobilisé·es, capables de répondre aux enjeux technologiques, environnementaux et éthiques.
@@ -23,6 +23,7 @@ Diplômes reconnus RNCP (niveau 6 & 7).
 
 - **Orléans** : en plein centre, 24 rue Jeanne d’Arc.
 - **Dijon** : ouverture en septembre 2025.
+- **Avignon** : ouverture en septembre 2026.
 
 ## 📞 Contact
 
