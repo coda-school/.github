@@ -1,12 +1,34 @@
-## Hi there 👋
+# Coda
+🎓 **Coda** est une école d’informatique privée, engagée et professionnalisante, implantée à Orléans et Dijon, qui forme des étudiant·es de `Bac+3` à `Bac+5` (RNCP niveaux 6 et 7) dans des domaines clés tels que le développement logiciel, la cybersécurité, l’IA et le Green IT.
 
-<!--
+## 🚀 Notre mission
+Préparer des professionnel·les du numérique compétent·es, responsables et mobilisé·es, capables de répondre aux enjeux technologiques, environnementaux et éthiques.
 
-**Here are some ideas to get you started:**
+## 🎯 Nos valeurs
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **Pédagogie par projet & alternance** : intégration en entreprise dès la 2ᵉ année dans tous nos cursus.  
+- **Green IT** : sensibilisation à l’éco‑conception, la sobriété numérique et l’empreinte écologique.  
+- **Expert.e.s du terrain** : tous les cours sont assurés par des professionnel·les en activité.
+
+## 🏫 Formations proposées
+
+| Niveau | Spécialités | Années |
+|--------|-------------|--------|
+| **Bachelor (Bac +3)** | Dév. Fullstack, Systèmes & Réseaux | 3 ans |
+| **Master of Science (Bac +5)** | Cybersécurité, IA & Data, Chef·fe de projet & Green IT | +2 ans |
+
+Diplômes reconnus RNCP (niveau 6 & 7).
+
+## 📍 Campus & infrastructure
+
+- **Orléans** : en plein centre, 24 rue Jeanne d’Arc.
+- **Dijon** : ouverture en septembre 2025.
+
+## 📞 Contact
+
+- 🌐 Site web : [coda.school](https://www.coda.school/)  
+- ✉️ Email : [contact@coda.school](mailto:contact@coda.school)
+- 📍Orléans : 24 rue Jeanne d’Arc
+- 📍Dijon : Campus CCI, Place des Nations Unies
+
+> Rejoignez-nous pour apprendre 🌱, coder 🔧, et (ré)inventer le numérique de demain, près de chez vous ! 🎉
